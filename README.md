@@ -17,9 +17,14 @@
 - To simplify work with the layout I’ve added the extension to UIView that have common methods for layout that were used in the development.
 - Date helper class was added to handle work with Date.
 - Application colors are stored in the assets.
+- Screen recording is made on iPhone 14 simulator
 
 ## Possible improvements
 - Some **facade** could be created to provide single interface for Local and Remote repositories.
 - Strings could be moved to **Constants**.
 - Colors could be moved to **Constants**.
 - Image cahing could be added.
+
+
+https://user-images.githubusercontent.com/5870566/200184418-4941a9e5-6a71-4728-b40d-4b38abd5c5c3.mp4
+
