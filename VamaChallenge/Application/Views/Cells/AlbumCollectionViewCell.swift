@@ -24,7 +24,7 @@ final class AlbumCollectionViewCell: UICollectionViewCell {
     
     override func draw(_ rect: CGRect) {
         super.draw(rect)
-        self.contentView.layer.cornerRadius = 16
+        self.contentView.layer.cornerRadius = 20
         self.contentView.clipsToBounds = true
     }
     
